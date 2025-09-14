@@ -1,9 +1,12 @@
 UML Code Analysis Project
-1. file data/test_dataset1.xlsx: Contains all generated codes.
-2. file data/test_dataset2.xlsx: 
-3. Analysis/Analysis.xlsx: Contains all analyses.
-The main program folder is: F:\uml\mohammadT
-Important Notes on This Folder (Files and Their Purposes)
+Input datasets:
+1. file data/row_prompt.csv:    Contains all stories
+2. file data/test_dataset1.xlsx:     Contains all generated PlantUml codes.
+3. file data/test_dataset2.xlsx:    Contains all generated PlantUml codes with Simple and Modified stories.
+Output datasets, .etc (Includes all results from the Python Scripts) 
+1. Analysis/Analysis.xlsx: Contains all Final analyses.
+2. All output files of Programs are in /report
+Pythons code scripts
 1.	Src/01_Scoring_prompts_using_huggingface.py: 
 Using for assessing row prompt complexity, it’s database is "data/row_promt.csv"
 2. Src/02_Huggingfacs_Transformer_Standard_prompt.py: 
