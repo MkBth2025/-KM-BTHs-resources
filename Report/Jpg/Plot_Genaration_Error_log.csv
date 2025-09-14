@@ -1,0 +1,5 @@
+timestamp_iso,excel_file,sheet,row_index_1based,col_index_1based,column_name,diagram_index_in_cell_1based,status,error,engine_version,inferred_syntax,output_path,output_format
+2025-09-14T14:44:43,F:\uml\mohammadT\GitHub\Data\test_dataset1.xlsx,test-dataset1,1,1,GBT001,1,success,,1.2024.3 (Thu Feb 15 23:10:05 IRST 2024),activity-legacy,report\jpg\GBT001\Row1_9dbe3b.jpg,JPEG
+2025-09-14T14:45:00,F:\uml\mohammadT\GitHub\Data\test_dataset1.xlsx,test-dataset1,1,2,GBT002,1,success,,1.2024.3 (Thu Feb 15 23:10:05 IRST 2024),activity-legacy,report\jpg\GBT002\Row1_a0055b.jpg,JPEG
+2025-09-14T14:45:11,F:\uml\mohammadT\GitHub\Data\test_dataset1.xlsx,test-dataset1,1,3,GBT003,1,success,,1.2024.3 (Thu Feb 15 23:10:05 IRST 2024),activity-legacy,report\jpg\GBT003\Row1_9dbe3b.jpg,JPEG
+2025-09-14T14:45:18,F:\uml\mohammadT\GitHub\Data\test_dataset1.xlsx,test-dataset1,1,4,GBT051,1,success,,1.2024.3 (Thu Feb 15 23:10:05 IRST 2024),activity-legacy,report\jpg\GBT051\Row1_42f0c5.jpg,JPEG

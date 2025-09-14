@@ -1,0 +1,1210 @@
+row_number,original_prompt,ai_enhanced_activity_prompt,ai_analysis_method,detected_entities,detected_actions,character_count,processing_timestamp,processing_status
+1,"As a site visitor, I want to post comments about articles, so that others can read them.","
+Generate PlantUML ACTIVITY diagram for:
+""As a site visitor, I want to post comments about articles, so that others can read them.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Comments
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,Comments,"start, process, end",88,2025-09-14 12:01:41,success
+2,"As a Website user, I want to access published FABS files so that I can see the new files as they come in.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Website user, I want to access published FABS files so that I can see the new files as they come in.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: FABS, Website
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"FABS, Website","start, process, end",105,2025-09-14 12:01:41,success
+3,"As an Older Person, I want to be able to see my training Performance.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Older Person, I want to be able to see my training Performance.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Older, Person, Performance
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Older, Person, Performance","start, process, end",69,2025-09-14 12:01:42,success
+4,"As a system administrator, I want to migrate data from an older version of NeuroHub to the current version.","
+Generate PlantUML ACTIVITY diagram for:
+""As a system administrator, I want to migrate data from an older version of NeuroHub to the current version.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Data, System, Version, NeuroHub
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Data, System, Version, NeuroHub","start, process, end",107,2025-09-14 12:01:42,success
+5,"As a depositor, I want to see what kinds of things the repository accepts and what formats are accepted and recommended.","
+Generate PlantUML ACTIVITY diagram for:
+""As a depositor, I want to see what kinds of things the repository accepts and what formats are accepted and recommended.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: User, System
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"User, System","start, process, end",120,2025-09-14 12:01:43,success
+6,"As a Consumer, I want to see a publisher's profile, so that I can discover their packages and get a sense of how active and good they are.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Consumer, I want to see a publisher's profile, so that I can discover their packages and get a sense of how active and good they are.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Consumer
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,Consumer,"start, process, end",138,2025-09-14 12:01:43,success
+7,"As a anonymous user, I want to see specific details on summits, so that I can learn more about the summit I'm interested in to see if it matches my interests, register for the event, and get day-of knowledge to help me get to the location.","
+Generate PlantUML ACTIVITY diagram for:
+""As a anonymous user, I want to see specific details on summits, so that I can learn more about the summit I'm interested in to see if it matches my interests, register for the event, and get day-of knowledge to help me get to the location.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Location
+- Action Verbs: register
+- Relationships: None detected
+- Sentiment: NEGATIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,Location,register,239,2025-09-14 12:01:44,success
+8,"As a system administrator, I want to run a script that installs the Neurohub node onto a virgin Ubuntu operating system.","
+Generate PlantUML ACTIVITY diagram for:
+""As a system administrator, I want to run a script that installs the Neurohub node onto a virgin Ubuntu operating system.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Neurohub, System, Ubuntu
+- Action Verbs: run
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Neurohub, System, Ubuntu",run,120,2025-09-14 12:01:45,success
+9,"As a user, I want to be sure that existing metadata corresponding to the file is not lost when moving a file to a new location.","
+Generate PlantUML ACTIVITY diagram for:
+""As a user, I want to be sure that existing metadata corresponding to the file is not lost when moving a file to a new location.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Location, Metadata
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Location, Metadata","start, process, end",127,2025-09-14 12:01:45,success
+10,"As a team member, I want to have a prioritized list of features and elements of a future social element page, so that I can work with the engineers to determine feasibility.","
+Generate PlantUML ACTIVITY diagram for:
+""As a team member, I want to have a prioritized list of features and elements of a future social element page, so that I can work with the engineers to determine feasibility.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Elements, Element
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Elements, Element","start, process, end",173,2025-09-14 12:01:46,success
+11,"As a member, I want to have the system email me a new password or a password reminder since I have short-term memory problems.","
+Generate PlantUML ACTIVITY diagram for:
+""As a member, I want to have the system email me a new password or a password reminder since I have short-term memory problems.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: System
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,System,"start, process, end",126,2025-09-14 12:01:47,success
+12,"As a CMS administrator, I want to have roles so that I can assign them to my users.","
+Generate PlantUML ACTIVITY diagram for:
+""As a CMS administrator, I want to have roles so that I can assign them to my users.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: CMS
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,CMS,"start, process, end",83,2025-09-14 12:01:48,success
+13,"As a site editor, I want to maintain a FAQ section, so that support gets fewer easily answered questions.","
+Generate PlantUML ACTIVITY diagram for:
+""As a site editor, I want to maintain a FAQ section, so that support gets fewer easily answered questions.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Section, FAQ, Questions
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Section, FAQ, Questions","start, process, end",105,2025-09-14 12:01:48,success
+14,"As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed.","
+Generate PlantUML ACTIVITY diagram for:
+""As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: NSF
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,NSF,"start, process, end",143,2025-09-14 12:01:49,success
+15,"As a Researcher Government Publisher, I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Researcher Government Publisher, I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Researcher, Publisher, Government, Dataset
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Researcher, Publisher, Government, Dataset","start, process, end",158,2025-09-14 12:01:49,success
+16,"As an external user, I want to easily find and access research and educational materials from Cornell faculty related to a particular topic, which I can use to develop stronger research/evidence based programming, grant proposals, community policy, or business practices.","
+Generate PlantUML ACTIVITY diagram for:
+""As an external user, I want to easily find and access research and educational materials from Cornell faculty related to a particular topic, which I can use to develop stronger research/evidence based programming, grant proposals, community policy, or business practices.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Educational, Based, Business, Cornell
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Educational, Based, Business, Cornell","start, process, end",271,2025-09-14 12:01:50,success
+17,"As an academic researcher, I want to find the works of a particular author in one easily sortable spot, so that I can see the evolution of their scholarship over time.","
+Generate PlantUML ACTIVITY diagram for:
+""As an academic researcher, I want to find the works of a particular author in one easily sortable spot, so that I can see the evolution of their scholarship over time.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Evolution, Scholarship
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Evolution, Scholarship","start, process, end",167,2025-09-14 12:01:51,success
+18,"As a user, I want to make uploaded data files to be non-modifiable.","
+Generate PlantUML ACTIVITY diagram for:
+""As a user, I want to make uploaded data files to be non-modifiable.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Data
+- Action Verbs: make
+- Relationships: None detected
+- Sentiment: NEGATIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,Data,make,67,2025-09-14 12:01:51,success
+19,"As the site editor, I want to add an article to the site, so that the site has plenty of content.","
+Generate PlantUML ACTIVITY diagram for:
+""As the site editor, I want to add an article to the site, so that the site has plenty of content.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: User, System
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"User, System","start, process, end",97,2025-09-14 12:01:52,success
+20,"As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to return only results from before, after, or between a given date or dates.","
+Generate PlantUML ACTIVITY diagram for:
+""As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to return only results from before, after, or between a given date or dates.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: User, System
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"User, System","start, process, end",177,2025-09-14 12:01:52,success
+21,"As a user, I want to be able to select different types of recyclable waste, so I have and get a list of facilities that accept each type and their opening hours, so that I can find an optimal route and schedule.","
+Generate PlantUML ACTIVITY diagram for:
+""As a user, I want to be able to select different types of recyclable waste, so I have and get a list of facilities that accept each type and their opening hours, so that I can find an optimal route and schedule.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: User, System
+- Action Verbs: select
+- Relationships: None detected
+- Sentiment: NEGATIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"User, System",select,211,2025-09-14 12:01:53,success
+22,"As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for Accessions and/or Resources before the list of Subjects.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for Accessions and/or Resources before the list of Subjects.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Archivist, Subjects, Extents, Dates, Resources, Accessions
+- Action Verbs: start, process, end
+- Relationships: [('precedes', 'Resources', 'The')]
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Archivist, Subjects, Extents, Dates, Resources","start, process, end",151,2025-09-14 12:01:54,success
+23,"As a site editor, I want to be able to designate whether or not an event makes the home page, so that the best content is featured most prominently.","
+Generate PlantUML ACTIVITY diagram for:
+""As a site editor, I want to be able to designate whether or not an event makes the home page, so that the best content is featured most prominently.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: User, System
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"User, System","start, process, end",148,2025-09-14 12:01:54,success
+24,"As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements wanted.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements wanted.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: SME, Improvements, Owner
+- Action Verbs: design
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"SME, Improvements, Owner",design,121,2025-09-14 12:01:55,success
+25,"As a data manager, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available.","
+Generate PlantUML ACTIVITY diagram for:
+""As a data manager, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Manager, Data
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Manager, Data","start, process, end",186,2025-09-14 12:01:55,success
+26,"As a faculty member, I want to go to my repository dashboard to manage members of my classes, grant submit permissions by pasting in a list of NetIDs, see confirmation that DDR recognizes the NetIDs, ability to manually remove permissions, ability to set begin and end dates for a submission window, and a have a status screen to clearly illustrate who has and hasn't submitted.","
+Generate PlantUML ACTIVITY diagram for:
+""As a faculty member, I want to go to my repository dashboard to manage members of my classes, grant submit permissions by pasting in a list of NetIDs, see confirmation that DDR recognizes the NetIDs, ability to manually remove permissions, ability to set begin and end dates for a submission window, and a have a status screen to clearly illustrate who has and hasn't submitted.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: DDR, Submission, Classes, Permissions, NetIDs, Confirmation
+- Action Verbs: manage, submit
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"DDR, Submission, Classes, Permissions, NetIDs","manage, submit",378,2025-09-14 12:01:57,success
+27,"As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Archivist
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,Archivist,"start, process, end",109,2025-09-14 12:01:57,success
+28,"As a DigitalRecords Archivist, I want to have the repository to lift embargoes on the release date and set the access controls to the configuration set on the item on that date.","
+Generate PlantUML ACTIVITY diagram for:
+""As a DigitalRecords Archivist, I want to have the repository to lift embargoes on the release date and set the access controls to the configuration set on the item on that date.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: DigitalRecords, Archivist, Configuration
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"DigitalRecords, Archivist, Configuration","start, process, end",177,2025-09-14 12:01:58,success
+29,"As the DAMS manager, I want to be able to list for browsing all formal collections represented in the DAMS along with the appropriate relationships.","
+Generate PlantUML ACTIVITY diagram for:
+""As the DAMS manager, I want to be able to list for browsing all formal collections represented in the DAMS along with the appropriate relationships.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: DAMS, Manager, Relationships, Collections
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"DAMS, Manager, Relationships, Collections","start, process, end",148,2025-09-14 12:01:58,success
+30,"As a collection curator, I want to see the scheduled records deletion date be displayed on the item and component pages.","
+Generate PlantUML ACTIVITY diagram for:
+""As a collection curator, I want to see the scheduled records deletion date be displayed on the item and component pages.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Deletion, Collection
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Deletion, Collection","start, process, end",120,2025-09-14 12:01:59,success
+31,"As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Integration, EPrints, Data, Developer
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Integration, EPrints, Data, Developer","start, process, end",122,2025-09-14 12:01:59,success
+32,"As a repository manager, I want to know all the components belonging to an object.","
+Generate PlantUML ACTIVITY diagram for:
+""As a repository manager, I want to know all the components belonging to an object.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Object, Manager
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Object, Manager","start, process, end",82,2025-09-14 12:02:00,success
+33,"As an agency user, I want to leave off the last 4 digits of the ZIP without an error, so that I can complete my submissions.","
+Generate PlantUML ACTIVITY diagram for:
+""As an agency user, I want to leave off the last 4 digits of the ZIP without an error, so that I can complete my submissions.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Submissions, ZIP
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Submissions, ZIP","start, process, end",124,2025-09-14 12:02:00,success
+34,"As a parent, I want to be able to submit various types of forms to the camp management.","
+Generate PlantUML ACTIVITY diagram for:
+""As a parent, I want to be able to submit various types of forms to the camp management.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Management
+- Action Verbs: submit
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,Management,submit,87,2025-09-14 12:02:01,success
+35,"As a Zoning Staff member, I want to issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Zoning Staff member, I want to issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Related, Permits, Applicant, Ordinance, Zoning, Staff, Service
+- Action Verbs: start, process, end
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Related, Permits, Applicant, Ordinance, Zoning","start, process, end",202,2025-09-14 12:02:02,success
+36,"As an Owner, I want to design an activity diagram for the Customer Simple Order Processing process, so that I can understand the flow of basic order handling.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for the Customer Simple Order Processing process, so that I can understand the flow of basic order handling.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Simple, Order, Owner, Processing, Customer
+- Action Verbs: design, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Simple, Order, Owner, Processing, Customer","design, process",158,2025-09-14 12:02:02,success
+37,"As an Owner, I want to design an activity diagram for the ATM Withdrawal Process, so that I can visualize how customers interact with an ATM during withdrawal.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for the ATM Withdrawal Process, so that I can visualize how customers interact with an ATM during withdrawal.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Withdrawal, ATM, Owner, Process
+- Action Verbs: design, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Withdrawal, ATM, Owner, Process","design, process",159,2025-09-14 12:02:03,success
+38,"As an Owner, I want to design an activity diagram for the Library Book Borrowing process, so that I can clearly track how users borrow books.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for the Library Book Borrowing process, so that I can clearly track how users borrow books.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Book, Library, Owner, Borrowing
+- Action Verbs: design, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Book, Library, Owner, Borrowing","design, process",141,2025-09-14 12:02:03,success
+39,"As an Owner, I want to design an activity diagram for the Online Shopping system, so that I can understand the key steps in a customer's online purchase journey.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for the Online Shopping system, so that I can understand the key steps in a customer's online purchase journey.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: System, Online, Owner, Shopping
+- Action Verbs: design
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"System, Online, Owner, Shopping",design,161,2025-09-14 12:02:04,success
+40,"As an Owner, I want to design an activity diagram for the Hotel Booking system, so that I can capture the booking flow from selection to confirmation.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for the Hotel Booking system, so that I can capture the booking flow from selection to confirmation.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Selection, Hotel, Owner, Booking, System, Confirmation
+- Action Verbs: design
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Selection, Hotel, Owner, Booking, System",design,150,2025-09-14 12:02:04,success
+41,"As an Owner, I want to design an activity diagram for the Ticket Vending Machine's Purchasing Ticket use case, so that I can model the interaction and ticket issuance.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for the Ticket Vending Machine's Purchasing Ticket use case, so that I can model the interaction and ticket issuance.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Ticket, Machine, Interaction, Model, Owner, Purchasing, Vending
+- Action Verbs: design
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Ticket, Machine, Interaction, Model, Owner",design,167,2025-09-14 12:02:05,success
+42,"As an Owner, I want to design an activity diagram for the Purchase Order Processing process, so that I can identify each step involved in fulfilling orders.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for the Purchase Order Processing process, so that I can identify each step involved in fulfilling orders.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Processing, Owner, Order, Purchase
+- Action Verbs: design, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Processing, Owner, Order, Purchase","design, process",156,2025-09-14 12:02:05,success
+43,"As an Owner, I want to design an activity diagram for the Document Management Process, so that I can organize how documents are stored, retrieved, and modified.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for the Document Management Process, so that I can organize how documents are stored, retrieved, and modified.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Document, Process, Owner, Management, Documents
+- Action Verbs: design, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Document, Process, Owner, Management, Documents","design, process",160,2025-09-14 12:02:06,success
+44,"As an Owner, I want to design an activity diagram for resolving an issue in software design in a software system, so that I can visualize the debugging and resolution workflow.","
+Generate PlantUML ACTIVITY diagram for:
+""As an Owner, I want to design an activity diagram for resolving an issue in software design in a software system, so that I can visualize the debugging and resolution workflow.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: System, Owner, Resolution
+- Action Verbs: design, design
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"System, Owner, Resolution","design, design",176,2025-09-14 12:02:07,success
+45,"As a Developer, I want to design an activity diagram for the method that handles incoming HTTP requests, so that I can understand and optimize request processing in the application.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Developer, I want to design an activity diagram for the method that handles incoming HTTP requests, so that I can understand and optimize request processing in the application.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Application, HTTP, Developer
+- Action Verbs: design
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Application, HTTP, Developer",design,181,2025-09-14 12:02:07,success
+46,"As a Product Manager, I want to design an activity diagram for the online shopping process, so that I can visualize the entire customer journey from product selection to checkout.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Product Manager, I want to design an activity diagram for the online shopping process, so that I can visualize the entire customer journey from product selection to checkout.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Selection, Manager, Product
+- Action Verbs: design, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+- Flow Patterns: decision
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Selection, Manager, Product","design, process",179,2025-09-14 12:02:08,success
+47,"As a Security Analyst, I want to design an activity diagram for user login using email and password, so that I can ensure the process is secure and user-friendly.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Security Analyst, I want to design an activity diagram for user login using email and password, so that I can ensure the process is secure and user-friendly.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Analyst, Security
+- Action Verbs: design, login, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Analyst, Security","design, login, process",162,2025-09-14 12:02:08,success
+48,"As a System Administrator, I want to design an activity diagram for the backup process, including file backup, database export, and log generation, so that I can ensure all tasks are performed reliably and in the correct sequence.","
+Generate PlantUML ACTIVITY diagram for:
+""As a System Administrator, I want to design an activity diagram for the backup process, including file backup, database export, and log generation, so that I can ensure all tasks are performed reliably and in the correct sequence.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Generation, System, Database, Administrator
+- Action Verbs: design, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Generation, System, Database, Administrator","design, process",230,2025-09-14 12:02:09,success
+49,"As an E-commerce Analyst, I want to design an activity diagram for the online order process from browsing to shipping, so that I can analyze and improve the customer experience and fulfillment flow.","
+Generate PlantUML ACTIVITY diagram for:
+""As an E-commerce Analyst, I want to design an activity diagram for the online order process from browsing to shipping, so that I can analyze and improve the customer experience and fulfillment flow.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Analyst, Shipping, Fulfillment
+- Action Verbs: design, process
+- Relationships: None detected
+- Sentiment: NEGATIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Analyst, Shipping, Fulfillment","design, process",198,2025-09-14 12:02:09,success
+50,"As a Game Store Manager, I want to design an activity diagram for the online game purchase process, so that I can understand the steps involved and ensure a seamless buying experience for users.","
+Generate PlantUML ACTIVITY diagram for:
+""As a Game Store Manager, I want to design an activity diagram for the online game purchase process, so that I can understand the steps involved and ensure a seamless buying experience for users.""
+
+ AI Analysis Method: Hugging Face Transformers
+- Key Entities: Game, Manager, Store
+- Action Verbs: store, design, process
+- Relationships: None detected
+- Sentiment: POSITIVE
+
+ Requirements:
+1. Start with (*) and end with (*)
+2. Represent all main actions as activities in rectangles
+3. Use decision diamonds <> for conditional flows
+4. Include fork and join for parallel activities
+5. Use proper activity flow arrows -->
+6. Add swimlanes if multiple actors are involved
+7. Include notes and comments for clarity
+8. Show error handling and alternative flows
+
+Output Format: Complete PlantUML activity diagram code starting with @startuml and ending with @enduml
+
+Enhanced AI Insight: Focus on modeling the complete workflow with proper activity flow, decisions, and parallel processes as identified by the AI analysis.
+",Hugging Face Transformers,"Game, Manager, Store","store, design, process",194,2025-09-14 12:02:10,success
