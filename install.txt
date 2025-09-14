@@ -1,0 +1,31 @@
+python -m venv .venv; .\.venv\Scripts\Activate.ps1 
+# Windows: .venv\\Scripts\\activate
+pip install -r requirements.txt
+# run Script on  datasets
+# data/row_promt.csv
+# data/test_dataset1.xlsx
+# data/test_dataset1.xlsx
+////////////////////////////
+python -m src.01_Scoring_prompts_using_huggingface # using "data/row_promt.csv"
+python -m src.02_Huggingfacs_Transformer_Standard_prompt # using "data/row_promt.csv"
+python -m src.03_Syntatic_Elemnt_Score  # using "data/test_dataset1.xlsx"
+python -m src.04_PlantUML_similarities # using "data/test_dataset1.xlsx"
+python  src/05_Symantic_prompt_and_code_coresponding_huggingface.py # using "data/test_dataset2.xlsx"
+	"""
+	It must be run twice: once for the simple prompts and once for the modified prompts. Each time, the relevant
+	 sheets from the Excel file must be manually copied/pasted into the first sheet ("Modifiedprompt") according to 
+	the prompt type, and the output files for analysis should also be renamed accordingly.
+	"""
+python src/06_Image_plantuml_render_to_jpg.py # using "data/test_dataset1.xlsx"
+    # PlantUML extension must add in Vcode environment
+
+python src/07_Select_optimal_prompts_for_human_assessing.py
+	#Due to the large volume of generated code, it prepares representative samples for human evaluation using statistical methods.
+python src/08_Group_MergeImage_for_selected_prompt_Humanasessing.py
+	    """
+	This program collects the drawn images from all models for the prompts
+	 selected for human evaluation and places them in the **Merg** folder.  
+	As a template, in the **ABC001** folder, we first create hypothetical images
+	 named after the selected prompt rows, and then we run the program.
+	"""
+////////////////////
