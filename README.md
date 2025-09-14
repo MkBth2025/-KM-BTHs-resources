@@ -1,37 +1,62 @@
 UML Code Analysis Project
 Main Prepared Datasets in Excel Files
-1. file test-dataset1.xlsx: Contains all generated codes that are used by the programs listed in rows 1, 2, and 3.
-2. file test-dataset2.xlsx: Contains all generated codes used by the program in row 4.
-3. Error.xls: Contains a review of the number of prompts for which their UML code image has not been rendered.
-4. Total.xlsx: Contains all analyses.
+1. file data/test_dataset1.xlsx: Contains all generated codes that are used by the programs listed in rows 1, 2, and 3.
+2. file data/test_dataset2.xlsx: Contains all generated codes used by the program in row 4.
+3. Analysis/Error.xls: Contains a review of the number of prompts for which their UML code image has not been rendered.
+4. Analysis/Total.xlsx: Contains all analyses.
 The main program folder is: F:\uml\mohammadT
 Important Notes on This Folder (Files and Their Purposes)
-1. Scoring prompts using huggingface.py: Used for scoring and assessing prompt complexity; its database is test-dataset2.xlsx.
-2. Huggingfacs Standard prompt.py: Used for prompt standardization, using NLP to convert simple prompts to their revised forms. its database is test-dataset2.xlsx.
-3. all-comparings2-2.py: Used for Syntetic evaluation; its database is test-dataset1.xlsx.
-4. PlantUML_similarity_combined_v2.py: Used for similarity analysis (Cosine, TF_IDF, etc.); its database is test-dataset1.xlsx.
-5. prompt and code correspondingwith huggingface.py: Determines the similarity between generated codes and prompt texts; its database is test-dataset2.xlsx.
-6. Image plantuml render_excel_plantuml_to_jpg.py: Converts code to images. Place files under f:\uml\mohammadt (can be changed in the code). Reads from Excel, creates a branch for each column, and saves images per branch (e.g., each branch is a model like cld001). Ensure the PlantUML extension is installed in VS Code with relevant libraries.
-7. selected prompt to assessing.py: For human evaluation of representative samples; finally, 9 prompts were selected.
-8. MergeImage.py: Collects all images of each model for human-evaluated selected prompts, storing them in a folder named with the model and the prompt row name.
+1.	Src/01_Scoring_prompts_using_huggingface.py: 
+Using for assessing row prompt complexity, it’s database is "data/row_promt.csv"
+2. Src/02_Huggingfacs_Transformer_Standard_prompt.py: 
+Used for prompt standardization, using NLP to convert simple prompts to their revised forms. it’s database is "data/row_promt.csv"
+3. Src/03_Syntatic_Elemnt_Score.py: 
+Used for Syntetic evaluation; "data/ test_dataset1.xlsx”.
+4. Src/04_PlantUML_similarities.py: Used for similarity analysis (Cosine, TF_IDF, etc.); "data/test-dataset1.xlsx”.
+5. Src/05_Symantic_prompt_and_code_coresponding_huggingface.py: 
+Determines the similarity between generated codes and prompt texts; its database is test-dataset2.xlsx. Note: It must be run twice: once for the simple prompts and once for the modified prompts. Each time, the relevant sheets from the Excel file must be manually copied/pasted into the first sheet ("Modifiedprompt") according to the prompt type, and the output files for analysis should also be renamed accordingly. it’s database is "data// test_dataset2.xlsx"
+6. Src/06_Image_plantuml_render_to_jpg.py:
+Converts generated PlantUml codes to images in folder ”report/jpg “. Reads from Excel, creates a subfolder for each model, and saves their images in the subfolder (e.g., each subfolder is a model like cld001, cloud in tempreture 0.0). Ensure the PlantUML extension is installed in VS Code with relevant libraries.
+7. Src/07_Select_optimal_prompts_for_human_assessing.py:
+Due to the large volume of generated code, it prepares representative samples for human evaluation using statistical methods.
+8. Src/08_Group_MergeImage_for_selected_prompt_Humanasessing.py: 
+This program collects the drawn images from all models for the prompts selected for human evaluation and places them in the **Merg** folder.  
+As a template, in the **ABC001** folder, we first create hypothetical images named after the selected prompt rows, and then we run the program.
 Special Notes
 • F:\uml\mohammadT\Results contains output files from each Python script, and each review sheet is eventually transferred (with the same reviewed filename) to F:\uml\mohammadT\New_Results\resulttttt\Total.xls.
 • Main Excel files used in analyses are located in F:\uml\mohammadT\New_Results\resulttttt.
-Specific Output Files
-1. LL_New Python_ALL_comparing_dataset_with_parameters1.xlsx: Output of all-comparings2-2.py for syntactic analyses.
-2. ALL_New TF-IDF-similarity_output_similarity.xlsx: Output of PlantUML_similarity_combined_v2.py.
-   a. ALL_New TF-IDF-similarity_statistics_output_similarity.xlsx: For similarity analysis.
-3. ALL_New Prompt_huggingface_results1.xlsx: Output of prompt and code correspondingwith huggingface.py.
-   a. ALL_New Prompt_metric_statistics_huggingface1.xlsx: For analyzing prompt-code similarity.
 How to Work with the Files
-1. Copy the desired UML code columns for each model into the first sheet of test-dataset1.xlsx.
-2. Copy the prompt title column and desired UML code columns for each model into the first sheet of test-dataset2.xlsx.
-all-comparings2.py is used for producing outputs and numeric analysis of UML code elements (Sytetic analysis) with Python commands; outputs as CSV.
-• To use it, copy all UML code columns for all models (in separate columns) into the first sheet of test-dataset1.xlsx, save, and process.
-• Copy and reverse-paste the output from the CSV and the created sheet into the master file (total.xlsx) for full analysis.
-For similarity and TF_IDF analysis (Similarities analysis), use PlantUML_similarity_combined_v2.py:
-• Copy-paste the columns for each model separately (as above) into test-dataset1.xlsx's first sheet and save.
-• Each model must be saved and the script run separately, then paste both output files side-by-side in two sheets in total.xlsx.
-Important: When running all-comparings2.py, copy all model columns at once. For the other scripts, do this for each model separately.
-To find which program uses which input and output files, search for ".XLSX" and ".CSV" in the scripts.
-After transferring data to total.xlsx, all three method outputs are available for further statistical analysis. The Python programs (PlantUML_similarity_combined_v2.py and All-comparings1.py) also produce a general statistical analysis output.
+The commands inside the **Install.txt** file must be executed.
+NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
+KaniMsBTH/
+├─ Analysis/
+│  ├─ Sample_Human_Evaluation_Questionnaire
+│  │  					  └─ *.jpg         
+│  └─ Analysis.xlsx                   
+├─ Data/			          # Innput dataset (with Model acronyms)
+│  │─ row_promt.csv  
+│  │─ test_dataset1.xlsx
+│  └─ test_dataset2.xlsx	                        
+├─ reports/
+│  ├─ *.csv                                # Output datsets
+│  ├─ *.xlsx,...      
+│  ├─ jpg
+│  │     └─ *.Jpg                          # All provided plots
+│  └─ backup_report
+│		   └─ Modified_prompt.csv
+├─ src                                     # All Script used to generate output files
+│  ├─ __init__.py                     
+│  ├─ 01_Scoring_prompts_using_huggingface.py                   
+│  ├─ 02_Huggingfacs_Transformer_Standard_prompt.py            
+│  ├─ 03_Syntatic_Elemnt_Score.py                       
+│  ├─ 04_PlantUML_similarities.py
+│  ├─ 05_Symantic_prompt_and_code_coresponding_huggingface.py
+│  ├─ 06_Image_plantuml_render_to_jpg.py
+│  ├─ 07_Select_optimal_prompts_for_human_assessing.py
+│  └─ 08_Group_MergeImage_for_selected_prompt_Humanasessing.py         
+│          
+├─ install.txt                     
+├─ README.md                      
+├─ requirements.txt                  
+├─ README.rtf                         
+└─ requirements.txt                            
