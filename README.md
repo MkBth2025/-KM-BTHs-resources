@@ -1,9 +1,8 @@
 UML Code Analysis Project
 Main Prepared Datasets in Excel Files
-1. file data/test_dataset1.xlsx: Contains all generated codes that are used by the programs listed in rows 1, 2, and 3.
-2. file data/test_dataset2.xlsx: Contains all generated codes used by the program in row 4.
-3. Analysis/Error.xls: Contains a review of the number of prompts for which their UML code image has not been rendered.
-4. Analysis/Total.xlsx: Contains all analyses.
+1. file data/test_dataset1.xlsx: Contains all generated codes.
+2. file data/test_dataset2.xlsx: 
+3. Analysis/Analysis.xlsx: Contains all analyses.
 The main program folder is: F:\uml\mohammadT
 Important Notes on This Folder (Files and Their Purposes)
 1.	Src/01_Scoring_prompts_using_huggingface.py: 
@@ -22,9 +21,8 @@ Due to the large volume of generated code, it prepares representative samples fo
 8. Src/08_Group_MergeImage_for_selected_prompt_Humanasessing.py: 
 This program collects the drawn images from all models for the prompts selected for human evaluation and places them in the **Merg** folder.  
 As a template, in the **ABC001** folder, we first create hypothetical images named after the selected prompt rows, and then we run the program.
-Special Notes
 How to Work with the Files
 The commands inside the **Install.txt** file must be executed.
 NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
  
-
+<img width="837" height="645" alt="image" src="https://github.com/user-attachments/assets/ea1fc66d-9227-460f-a442-19c924745590" />
