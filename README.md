@@ -29,6 +29,8 @@ How to Work with the Files
 The commands inside the **Install.txt** file must be executed.
 NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
 
-<img width="814" height="574" alt="image" src="https://github.com/user-attachments/assets/f9ffd65a-b65d-477c-8982-fa538b243ee2" />
+<img width="837" height="645" alt="image" src="https://github.com/user-attachments/assets/3a2d2f61-6bab-498b-a95d-37541685f97a" />
+
+
 
 
