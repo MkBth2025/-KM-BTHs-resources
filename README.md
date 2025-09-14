@@ -28,35 +28,4 @@ Special Notes
 How to Work with the Files
 The commands inside the **Install.txt** file must be executed.
 NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
-KaniMsBTH/
-├─ Analysis/
-│  ├─ Sample_Human_Evaluation_Questionnaire
-│  │  					  └─ *.jpg         
-│  └─ Analysis.xlsx                   
-├─ Data/			          # Innput dataset (with Model acronyms)
-│  │─ row_promt.csv  
-│  │─ test_dataset1.xlsx
-│  └─ test_dataset2.xlsx	                        
-├─ reports/
-│  ├─ *.csv                                # Output datsets
-│  ├─ *.xlsx,...      
-│  ├─ jpg
-│  │     └─ *.Jpg                          # All provided plots
-│  └─ backup_report
-│		   └─ Modified_prompt.csv
-├─ src                                     # All Script used to generate output files
-│  ├─ __init__.py                     
-│  ├─ 01_Scoring_prompts_using_huggingface.py                   
-│  ├─ 02_Huggingfacs_Transformer_Standard_prompt.py            
-│  ├─ 03_Syntatic_Elemnt_Score.py                       
-│  ├─ 04_PlantUML_similarities.py
-│  ├─ 05_Symantic_prompt_and_code_coresponding_huggingface.py
-│  ├─ 06_Image_plantuml_render_to_jpg.py
-│  ├─ 07_Select_optimal_prompts_for_human_assessing.py
-│  └─ 08_Group_MergeImage_for_selected_prompt_Humanasessing.py         
-│          
-├─ install.txt                     
-├─ README.md                      
-├─ requirements.txt                  
-├─ README.rtf                         
-└─ requirements.txt                            
+<img width="1046" height="806" alt="image" src="https://github.com/user-attachments/assets/7188c47b-0a24-4e1f-98de-315f266a6ab8" />
