@@ -26,8 +26,10 @@ Due to the large volume of generated code, it prepares representative samples fo
 This program collects the drawn images from all models for the prompts selected for human evaluation and places them in the **Merg** folder.  
 As a template, in the **ABC001** folder, we first create hypothetical images named after the selected prompt rows, and then we run the program.
 
-How to Work with the Files
+**How to Work with the Files**
+
 The commands inside the **Install.txt** file must be executed.
 NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
  
-<img width="837" height="645" alt="image" src="https://github.com/user-attachments/assets/ea1fc66d-9227-460f-a442-19c924745590" />
+<img width="837" he
+   ight="645" alt="image" src="https://github.com/user-attachments/assets/ea1fc66d-9227-460f-a442-19c924745590" />
