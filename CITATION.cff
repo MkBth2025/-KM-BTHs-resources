@@ -6,6 +6,6 @@ authors:
 date-released: 2025-09-20
 version: "1.0.0"
 license: "Apache-2.0"
-doi: "10.xxxx/your-paper-doi"   # Add when available
+doi: "TBD"
 url: "https://github.com/yourusername/your-repo"
 message: "If you use this pipeline in your research, please cite our paper."
