@@ -29,3 +29,5 @@ python src/08_Group_MergeImage_for_selected_prompt_Humanasessing.py
 	 named after the selected prompt rows, and then we run the program.
 	"""
 ////////////////////
+The analyzed data exists in the specified folders, but if you want the data to be regenerated or run the program on your own data, execute the file run_pipeline.py after installing the requirements listed in requirements.txt.
+
