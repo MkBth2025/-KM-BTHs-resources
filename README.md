@@ -34,8 +34,8 @@ As a template, in the **ABC001** folder, we first create hypothetical images nam
 
 The commands inside the **Install.txt** file must be executed.
 NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
-
+   The analyzed data exists in the specified folders, but if you want the data to be regenerated or run the program on your own data, execute the file run_pipeline.py after installing the requirements listed in requirements.txt.
 <img width="837" he
    ight="645" alt="image" src="https://github.com/user-attachments/assets/ea1fc66d-9227-460f-a442-19c924745590" />
- ## License
+    ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
