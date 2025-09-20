@@ -34,8 +34,8 @@ As a template, in the **ABC001** folder, we first create hypothetical images nam
 
 The commands inside the **Install.txt** file must be executed.
 NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
- ## License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 <img width="837" he
    ight="645" alt="image" src="https://github.com/user-attachments/assets/ea1fc66d-9227-460f-a442-19c924745590" />
+ ## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
