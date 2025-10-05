@@ -9,7 +9,9 @@ Output datasets, .etc (Includes all results from the Python Scripts)
 2. All output files of Programs are in /report
 
 Pythons code scripts
-1. Plantuml_LLMs.py program.
+1. 1.	Src/01_Scoring_prompts_using_huggingface.py: 
+Using for assessing row prompt complexity, it’s database is "data/row_promt.csv"
+
 2.	Src/01_Scoring_prompts_using_huggingface.py: 
 Using for assessing row prompt complexity, it’s database is "data/row_promt.csv"
 3. Src/02_Huggingfacs_Transformer_Standard_prompt.py: 
