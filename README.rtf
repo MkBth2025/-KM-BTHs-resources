@@ -1,7 +1,7 @@
 UML Code Analysis Project
 Input datasets:
 1. file data/row_prompt.csv:    Contains all stories
-2. file data/test_dataset1.xlsx:     Contains all generated PlantUml codes.
+2. file data/test_dataset1.xlsx:     Contains all generated PlantUml codes .
 3. file data/test_dataset2.xlsx:    Contains all generated PlantUml codes with Simple and Modified stories.
 
 Output datasets, .etc (Includes all results from the Python Scripts) 
@@ -25,8 +25,11 @@ Due to the large volume of generated code, it prepares representative samples fo
 8. Src/08_Group_MergeImage_for_selected_prompt_Humanasessing.py: 
 This program collects the drawn images from all models for the prompts selected for human evaluation and places them in the **Merg** folder.  
 As a template, in the **ABC001** folder, we first create hypothetical images named after the selected prompt rows, and then we run the program.
+9. src/stat.py --stat-yaml stat.yaml --report-dir report --outdir report/Stat
+This program performs various statistical analyses on program outputs and ranks the models based on statistical analyses. The columns for analysis read of Stat.yaml
+10. src/Analysis.py --stat-yaml stat.yaml --report-dir report --outdir report/Analysis.
+This program, based on the data available in the program outputs, automatically summarizes the analysis sections and provides the average of their outputs. The columns for analysis read of Stat.yaml
 How to Work with the Files
 The commands inside the **Install.txt** file must be executed.
 NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
-The analyzed data exists in the specified folders, but if you want the data to be regenerated or run the program on your own data, execute the file run_pipeline.py after installing the requirements listed in requirements.txt.
-
+ 
