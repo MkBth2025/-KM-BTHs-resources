@@ -5,7 +5,9 @@ pip install -r requirements.txt
 # data/row_promt.csv
 # data/test_dataset1.xlsx
 # data/test_dataset1.xlsx
-////////////////////////////
+#You can generate and review the results by running the Plantuml_LLMs.py program.
+ ////////////////////////////
+Plantuml_LLMs.py
 python -m src.02_Huggingfacs_Transformer_Standard_prompt # using "data/row_promt.csv"
 python -m src.03_Syntatic_Elemnt_Score  # using "data/test_dataset1.xlsx"
 python -m src.04_PlantUML_similarities # using "data/test_dataset1.xlsx"
@@ -31,5 +33,6 @@ python src/08_Group_MergeImage_for_selected_prompt_Humanasessing.py
 	"""
 ////////////////////
 The analyzed data exists in the specified folders, but if you want the data to be regenerated or run the program on your own data, execute the file run_pipeline.py after installing the requirements listed in requirements.txt.
+
 
 
