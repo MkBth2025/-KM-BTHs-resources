@@ -23,10 +23,12 @@ KaniMsBTH/
 │  ├─ 05_Symantic_prompt_and_code_coresponding_huggingface.py
 │  ├─ 06_Image_plantuml_render_to_jpg.py
 │  ├─ 07_Select_optimal_prompts_for_human_assessing.py
-│  └─ 08_Group_MergeImage_for_selected_prompt_Humanasessing.py         
+│  ├─ 08_Group_MergeImage_for_selected_prompt_Humanasessing.py         
+│  ├─ 09_stat.py .py # Statistical analyses 
+│  └─ 10_Analysis.py     
 │          
 ├─ install.txt                     
 ├─ README.md                      
 ├─ requirements.txt                  
 ├─ README.rtf                         
-└─ requirements.txt                            
+└─ Stat.yaml 
