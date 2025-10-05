@@ -33,8 +33,8 @@ How to Work with the Files
 The commands inside the **Install.txt** file must be executed.
 NOTE: Finally, all outputs of the mentioned programs have been reviewed in an Excel file for analysis, and these programs have only generated outputs that were later analyzed and reviewed, with the results visible in the **/Analysis** folder.
  
-   
-<img width="837" he
-   ight="645" alt="image" src="https://github.com/user-attachments/assets/ea1fc66d-9227-460f-a442-19c924745590" />
+   <img width="893" height="734" alt="image" src="https://github.com/user-attachments/assets/42064040-d9da-44c2-8fb3-37ba250d3017" />
+
+
     ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
