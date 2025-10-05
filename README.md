@@ -9,7 +9,7 @@ Output datasets, .etc (Includes all results from the Python Scripts)
 2. All output files of Programs are in /report
 
 Pythons code scripts
-1. 1.	Src/01_Scoring_prompts_using_huggingface.py: 
+1.	Src/01_Scoring_prompts_using_huggingface.py: 
 Using for assessing row prompt complexity, it’s database is "data/row_promt.csv"
 
 2.	Src/01_Scoring_prompts_using_huggingface.py: 
@@ -32,6 +32,7 @@ As a template, in the **ABC001** folder, we first create hypothetical images nam
 This program performs various statistical analyses on program outputs and ranks the models based on statistical analyses. The columns for analysis read of Stat.yaml
 10. src/Analysis.py --stat-yaml stat.yaml --report-dir report --outdir report/Analysis.
 This program, based on the data available in the program outputs, automatically summarizes the analysis sections and provides the average of their outputs. The columns for analysis read of Stat.yaml
+11. src/Plantuml_LLMs.py
 How to Work with the Files
 Run Plantuml_LLMs.py program or following script run
 The commands inside the **Install.txt** file must be executed.
