@@ -32,7 +32,7 @@ As a template, in the **ABC001** folder, we first create hypothetical images nam
 This program performs various statistical analyses on program outputs and ranks the models based on statistical analyses. The columns for analysis read of Stat.yaml
 10. src/Analysis.py --stat-yaml stat.yaml --report-dir report --outdir report/Analysis.
 This program, based on the data available in the program outputs, automatically summarizes the analysis sections and provides the average of their outputs. The columns for analysis read of Stat.yaml
-11. src/Plantuml_LLMs.py # Main program
+11. Plantuml_LLMs.py # Main program
     
 How to Work with the Files
 Run Plantuml_LLMs.py program or following script run
