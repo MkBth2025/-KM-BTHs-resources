@@ -1,0 +1,19 @@
+statistics:
+  - file: "01_Syntatic_Analysis.csv"
+    columns:
+      include:
+        - "_percentage_score"   # all columns ending with this suffix
+
+  - file: "02_Similarity_Analysis.csv"
+    columns:
+      include:
+        - "_Weighted"           # all columns ending with this suffix
+
+  - file: "03_Symantic_promt_code_Analysis_SP.csv"
+    columns:
+      include:
+        - "_match_rate"         # all columns ending with this suffix
+  - file: "03_Symantic_promt_code_Analysis_MP.csv"
+    columns:
+      include:
+        - "_match_rate"         # all columns ending with this suffix
