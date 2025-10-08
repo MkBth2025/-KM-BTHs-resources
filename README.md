@@ -1,3 +1,6 @@
+UPDATE: This repository has been updated with the addition of stat.yaml, which is required for running statistical evaluation and model output analysis, and plantuml_uml.py to the main folder. Note that if you choose not to use the install.txt file, you must first install the required Python libraries and then execute plantuml_uml.py within the MKBth2025 folder.
+
+
 UML Code Analysis Project
 Input datasets:
 1. file data/row_prompt.csv:    Contains all stories
